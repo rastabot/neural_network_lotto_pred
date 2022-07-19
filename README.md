@@ -19,5 +19,4 @@ A personal project with the goal of predicting lottery numbers. A pointless exer
 <li> Creates a Visualization of the numbers distribution</li>
   
  </ol>
-             
-            </div>
+ </div>
