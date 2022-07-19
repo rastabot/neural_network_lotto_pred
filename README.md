@@ -10,11 +10,11 @@ A personal project with the goal of predicting lottery numbers. A pointless exer
 <li> create_input_matrix: creates a csv or data frame of randomly generated lottery numbers</li>
 <li> Because each column has a slight tendency toward certain numbers</li>
    the prediction model will be build using each column from each csv
-   example : X = random_numbers_csv [1],  
+   example :<div> X = random_numbers_csv [1],  
              y= actual_raffle_csv[1],
              input_num[1] = lattest_raffle[1]
              model.fit(X,y)
-             model.predict(input_num)</li>
+  model.predict(input_num)</li></div>
 <li> Outputs the numbers and the probability according to each model</li>
 <li> Creates a Visualization of the numbers distribution</li>
   
